@@ -20,18 +20,11 @@ I enjoy working across different areas of software engineering, from web develop
 **AI & Machine Learning**
 `YOLO` `Ultralytics` `Computer Vision` `OCR` `PyTorch`
 
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chami2002&show_icons=true&hide_border=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chami2002&layout=compact&hide_border=true&theme=transparent" height="160" />
-</p>
-
 ### Connect With Me
 
 - **Email:** chaminarasinghe@gmail.com
 - **LinkedIn:** [Chami Narasinghe](https://www.linkedin.com/in/chami-narasinghe-b01737281/)
-- **GitHub:** [@chami2002](https://github.com/chami2002)
+- **GitHub:** [@chami2002](https://github.com/ChamiNarasinghe)
 
 ---
 
