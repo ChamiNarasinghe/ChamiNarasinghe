@@ -1,16 +1,40 @@
-<h1 align="center">Hi 👋, I'm Chami Narasinghe</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka</h3>
+# Hi, I'm Chami Narasinghe 👋
+
+**Software Engineer | AI & Machine Learning Enthusiast | Full-Stack Developer**
+
+I'm a Software Engineer from Sri Lanka with an interest in building practical software solutions, exploring AI technologies, and developing intelligent applications.
+
+I enjoy working across different areas of software engineering, from web development and backend systems to machine learning and computer vision.
+
+### Tech Stack
+
+**Languages**
+`Python` `Java` `JavaScript` `TypeScript` `Go`
+
+**Frontend**
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+
+**Backend & Databases**
+`Node.js` `Spring Boot` `REST APIs` `PostgreSQL` `MySQL` `MongoDB`
+
+**AI & Machine Learning**
+`YOLO` `Ultralytics` `Computer Vision` `OCR` `PyTorch`
+
+### GitHub Statistics
 
 <p align="center">
-    <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" alt="Animated Image" width="300" height="auto" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chami2002&show_icons=true&hide_border=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chami2002&layout=compact&hide_border=true&theme=transparent" height="160" />
 </p>
 
+### Connect With Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chami2002&label=Profile%20views&color=0e75b6&style=flat" alt="chami2002" /> </p>
+- **Email:** chaminarasinghe@gmail.com
+- **LinkedIn:** [Chami Narasinghe](https://www.linkedin.com/in/chami-narasinghe-b01737281/)
+- **GitHub:** [@chami2002](https://github.com/chami2002)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 📫 How to reach me *chaminarasinghe@gmail.com*
-
-<p align="left">
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
 </p>
